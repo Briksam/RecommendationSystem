@@ -1,6 +1,3 @@
-Here’s your improved README with a contributors section added, styled to match the tone of the project while keeping it professional and open-source–friendly:
-
-````markdown
 # 🎯 Item-Based Collaborative Filtering Recommender System  
 
 This project is a **C++ implementation of an Item-Based Collaborative Filtering (IBCF) recommender system**, developed for the **CMP2003 Rating Prediction Challenge** on Kaggle.  
