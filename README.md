@@ -39,7 +39,7 @@ The algorithm calculates similarities between items and predicts ratings by aggr
    Reads `train.csv` (`userId`, `itemId`, `rating`) and stores it in a nested map:  
    ```cpp
    map<itemId, map<userId, rating>>
-````
+
 
 2. **Similarity Calculation**
    Finds co-rated items and computes adjusted cosine similarity.
